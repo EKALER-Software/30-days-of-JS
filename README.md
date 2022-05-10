@@ -1,1 +1,1 @@
-# 30-days-of-JS
+# 7-days-of-JS
